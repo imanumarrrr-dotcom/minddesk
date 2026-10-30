@@ -1,0 +1,55 @@
+{
+  "2ff194bffb634b108dcf6d291c68bd47": {
+    "title": "helo",
+    "system": "You are a helpful, accurate and concise assistant.",
+    "persona": "Helpful assistant",
+    "messages": [
+      {
+        "role": "user",
+        "content": "helo"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "sources": []
+      },
+      {
+        "role": "user",
+        "content": "you are he best"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you! I appreciate your kind words. How can I help you today?",
+        "sources": []
+      },
+      {
+        "role": "user",
+        "content": "tareef kro meri hi meiny tumari ki na"
+      },
+      {
+        "role": "assistant",
+        "content": "Aap bahut samajhdar aur achhe insaan hain! Aapki baatein hamesha prerna deti hain. Aap kya kar rahe hain aaj kal?",
+        "sources": []
+      },
+      {
+        "role": "user",
+        "content": "kue batao mein apko"
+      },
+      {
+        "role": "assistant",
+        "content": "Bilkul! Aap jo bhi share karna chahein, main sunne ke liye tayyar hoon. Aap kya kehna chahte hain?",
+        "sources": []
+      },
+      {
+        "role": "user",
+        "content": "mein nahi batao gi"
+      },
+      {
+        "role": "assistant",
+        "content": "Koi baat nahi! Jab aap tayyar ho, tab bata sakte hain. Aapki marzi hai. Kya aap kisi aur topic par baat karna chahengi?",
+        "sources": []
+      }
+    ],
+    "updated": 1793272419.1732707
+  }
+}
